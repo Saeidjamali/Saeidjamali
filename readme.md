@@ -14,7 +14,7 @@ I'm an NLP Researcher and Engineer, specializing in Natural Language Processing 
 ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Transformers-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-intellithing-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-intellithing-informational?style=flat&logo=intellithing&logoColor=white&color=2bbc8a)
 
 <!-- Update these badges with your own stack -->
 <!--
