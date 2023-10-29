@@ -42,7 +42,7 @@ I wrote my first line of code at the age of 12, and since then, my passion for t
 - LinkedIn: `https://www.linkedin.com/in/saeidjamali/`
 - Email: Token IDs: tensor([[  101,  7842,  7416,  2094,  1031,  2012,  1033, 13420, 15909, 12053,
           1031, 11089,  1033,  6627,   102]])
-- Hit: You'll need BERT Base Uncased
+- Hint: You'll need BERT Base Uncased
 
 Feel free to reach out to collaborate on research projects, discuss ideas, or anything interesting!
 
