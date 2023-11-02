@@ -32,7 +32,6 @@ I'm an NLP Researcher and Engineer, specializing in Natural Language Processing 
 I wrote my first line of code at the age of 12, and since then, my passion for technology and coding has only intensified. My current focus is leveraging transformer architectures for groundbreaking innovations in NLP.
 
 ## 📝 Research Area
-![Stanford University](path-to-stanford-logo.png)
 
 I am currently engaged in research focused on mitigating bias during the inference stage for Large Language Models at Stanford University.
 
